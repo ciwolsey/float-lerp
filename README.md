@@ -9,5 +9,5 @@ lerp(1.0, 2.0, 0.5)
 Find the fraction a given value lies at between two floats 
 ```rust
 // Returns 0.5 because 1.5 is 0.5 of the distance between 1.0 and 2.0
-inverse_lerp(1.0, 2.0, 1.5) // Returns 0.5
+inverse_lerp(1.0, 2.0, 1.5)
 ```
